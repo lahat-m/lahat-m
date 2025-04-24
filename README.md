@@ -53,6 +53,7 @@ Deep dive into C programming, focusing on data structures, pointers, and memory 
 | **JavaScript**          | Web development, full-stack solutions     |
 | **NestJS**              | Scalable backend architecture             |
 | **ReactJS**             | Dynamic frontend SPAs and UI              |
+| **TypeScript**          | Frontend                                  |
 | **Python**              | AI/ML, automation, scripting              |
 | **PHP**                 | Web applications, full-stack development  |
 | **C**                   | Low-level systems, performance-critical code |

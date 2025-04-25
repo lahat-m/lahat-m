@@ -14,7 +14,7 @@
 I'm a passionate Software Engineer based in Nairobi, Kenya, with a focus on building robust backend systems, exploring AI. I thrive on learning new technologies and writing clean, efficient code.
 
 💻 **Expertise**: JavaScript, Python, PHP, NestJS, C, Linux, Shell Scripting  
-🌱 **Interests**: AI, Compilers, Clean Code, DevOps  
+🌱 **Interests**: AI, Compilers, Clean Code  
 📍 **Location**: Nairobi, Kenya  
 📫 **Connect**: [GitHub](https://github.com/lahat-m) | [X](https://twitter.com/lahatmariel)
 

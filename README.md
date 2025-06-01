@@ -37,8 +37,8 @@ Full-stack application built with PHP, databases, and a user-friendly UI for eff
 ### [Muong Forum](https://github.com/lahat-m/muong-forum)
 A seamless backend system designed for scalability and performance.  
 
-### [ALX System Engineering DevOps](https://github.com/lahat-m/alx-system_engineering-devops)
-A collection of DevOps projects exploring systems, infrastructure, and shell scripting.  
+### [Mpesa Integration with NestJS]([https://github.com/lahat-m/alx-system_engineering-devops](https://github.com/lahat-m/Mpesa-NestJS-Integration))
+Mpesa payment gateway integration with NestJS developed with TypeScript and Node.js
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=alx-system_engineering-devops&theme=light)
 
 ### [ALX Low-Level Programming](https://github.com/lahat-m/alx-low_level_programming)

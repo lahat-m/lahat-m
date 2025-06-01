@@ -27,7 +27,7 @@ I'm a Software Engineer based in Nairobi, Kenya, specializing in building robust
 ## Featured Projects
 
 ### [M-Pesa Integration with NestJS](https://github.com/lahat-m/Mpesa-NestJS-Integration)
-** Latest Project** : Complete M-Pesa Daraja API integration featuring STK Push payments, real-time callbacks, and transaction management. Built with NestJS, TypeScript, Prisma, and PostgreSQL.
+**Latest Project**: Complete M-Pesa Daraja API integration featuring STK Push payments, real-time callbacks, and transaction management. Built with NestJS, TypeScript, Prisma, and PostgreSQL.
 
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=Mpesa-NestJS-Integration&theme=light)
 

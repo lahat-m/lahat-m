@@ -15,7 +15,6 @@
 
 I'm a Software Engineer based in Nairobi, Kenya, specializing in building robust backend systems, payment integrations, and exploring AI technologies.
 
-📫 **Connect**: [GitHub](https://github.com/lahat-m) | [X](https://twitter.com/lahatmariel)
 
 
 ##  Tech Stack

@@ -37,7 +37,7 @@ Full-stack membership management application built with PHP, featuring comprehen
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=splm-membership-information-system&theme=light)
 
 ### [Muong Forum](https://github.com/lahat-m/muong-forum)
-Scalable forum backend system designed for high performance and reliability, featuring modern architecture patterns and optimized database operations.
+Scalable forum backend system designed for high performance and reliability, featuring modern architecture patterns and optimized database operations written with NestJS, JS , Prisma ORM and PostgreSQL
 
 ### [ALX System Engineering & DevOps](https://github.com/lahat-m/alx-system_engineering-devops)
 Comprehensive collection of system administration, DevOps practices, and automation scripts focusing on Linux environments and infrastructure management.

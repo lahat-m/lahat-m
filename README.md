@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-Hey there! I'm Lahat, a software engineer based in Nairobi, Kenya. I specialize in building high-performance backend systems, integrating payment solutions like M-Pesa, and diving deep into AI whenever I get the chance. I enjoy working on projects that solve real-world problems, especially those with a social impact.
+Hey there! I'm Lahat, a software engineer based in Nairobi, Kenya. I specialize in build backend systems, integrating payment solutions like M-Pesa, and diving deep into AI whenever I get the chance.
 
 ---
 

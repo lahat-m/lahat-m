@@ -51,10 +51,11 @@ I'm a Software Engineer based in Nairobi, Kenya, specializing in building robust
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=lahat-m&theme=light&hide_border=true&background=f8f9fa" alt="GitHub Streak" />
 </p>
+
 
 
 ---

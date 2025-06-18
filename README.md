@@ -15,7 +15,6 @@
   </a>
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -50,16 +49,6 @@ A comprehensive repo of scripts and automation tools, focusing on Linux-based sy
 
 ### 🔹 [ALX Low-Level Programming](https://github.com/lahat-m/alx-low_level_programming)
 A deep dive into C programming, covering everything from memory management and data structures to pointers and system-level logic.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=lahat-m&theme=light&hide_border=true&background=f8f9fa" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   ✨ I'm open to freelance opportunities, open-source collaborations, tech mentorship, and speaking engagements. Let's build something impactful together!

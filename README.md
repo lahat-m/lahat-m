@@ -1,9 +1,7 @@
 **⚡**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lahat-m&theme=github-light&hide_border=true&bg_color=f8f9fa" alt="Contribute tracker" />
-</p>
-
-<!-- Profile Header -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lahat-m&theme=github-light&hide_border=true&bg_color=f8f9fa" alt="Activity Graph" />
+</p><!-- Profile Header -->
 <h1 align="center">Lahat Mariel</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Backend Systems Architect</h3>
 <p align="center">
@@ -17,11 +15,14 @@
 
 I'm a Software Engineer based in Nairobi, Kenya, specializing in building robust backend systems, payment integrations, and exploring AI technologies.
 
-## Tech Stack
+
+
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nestjs,react,python,php,c,bash,linux,vscode,git,github,postgres,prisma" alt="Tech Stack" />
 </p>
+
 
 ## Featured Projects
 
@@ -46,11 +47,13 @@ Comprehensive collection of system administration, DevOps practices, and automat
 ### [ALX Low-Level Programming](https://github.com/lahat-m/alx-low_level_programming)
 Deep dive into C programming fundamentals, covering data structures, pointers, memory management, and system-level programming concepts.
 
-## Contribute tracker
+
+## 📈
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahat-m&theme=light&hide_border=true&background=f8f9fa" alt="GitHub Streak" />
 </p>
+
 
 (^_^)
 

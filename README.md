@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I am Software Engineer based in Nairobi, Kenya. I specialize in building robust and scalable backend systems. I'm currently focused on developing a **Lending Application** using a **Spring Boot microservice architecture**.
+I am Software Engineer based in Nairobi, Kenya. I specialize in building robust and scalable backend systems. I'm currently on developing a **Lending Application** using a **Spring Boot microservice architecture**.
 
 ---
 

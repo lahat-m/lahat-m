@@ -25,17 +25,21 @@ I am a Software Engineer based in Nairobi, Kenya. I specialize in building robus
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nestjs,react,python,php,c,bash,linux,vscode,git,github,postgresql,prisma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring boot,postgresql,docker" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🔹 [JuaLearn Platform](https://jualearn.co.ke)
-An innovative educational technology platform designed to revolutionize learning accessibility in Africa. Leveraging modern architecture for scalability and performance.
-<p align="center">
-  <a href="https://jualearn.co.ke" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-jualearn.co.ke-2ea44f?style=for-the-badge" alt="JuaLearn Platform" />
-  </a>
-</p>
+
+An AI-powered peer learning platform built to upskill Kenya's informal sector 
+with digital skills. Built with Spring Boot, Spring AI, Vaadin Flow, and Docker. 
+Deployed on a VPS.
+
+[![JuaLearn Preview](assets/jualearn-preview.png)](https://jualearn.co.ke)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)

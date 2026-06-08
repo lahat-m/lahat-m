@@ -14,16 +14,16 @@
   </a>
 </p>
 
-## 🧠 About Me
+## About Me
 
 I am a Java Developer based in Nairobi, Kenya. I specialize in building robust and scalable modular applications in Java and Spring Boot.
-## 💻 Primary Skils
+## Primary Skils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker" alt="Tech Stack" />
 </p>
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🔹 [JuaLearn Platform](https://jualearn.co.ke)
 

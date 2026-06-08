@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I am Software Engineer based in Nairobi, Kenya. I specialize in building robust and scalable backend systems. I'm currently on developing a **Lending Application** using a **Spring Boot microservice architecture**.
+I am a Software Engineer based in Nairobi, Kenya. I specialize in building robust and scalable backend systems. I'm passionate about designing efficient systems, working with microservices, and leveraging AI to solve complex problems. Currently focused on developing innovative educational and fintech solutions.
 
 ---
 
@@ -32,42 +32,10 @@ I am Software Engineer based in Nairobi, Kenya. I specialize in building robust 
 
 ## 🚀 Featured Projects
 
-### 🔹 [M-Pesa Integration with NestJS](https://github.com/lahat-m/Mpesa-NestJS-Integration)
-A complete backend implementation of the **M-Pesa Daraja API** — from STK Push to callback handling and transaction tracking. Built with **NestJS**, **TypeScript**, **PostgreSQL**, and **Prisma**.
+### 🔹 [JuaLearn Platform](https://jualearn.co.ke)
+An innovative educational technology platform designed to revolutionize learning accessibility in Africa. Leveraging modern architecture for scalability and performance.
 <p align="center">
-  <a href="https://github.com/lahat-m/Mpesa-NestJS-Integration" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=Mpesa-NestJS-Integration&theme=github-light" alt="M-Pesa Integration with NestJS" />
-  </a>
-</p>
-
-### 🔹 [SPLM Membership Information System](https://github.com/lahat-m/splm-membership-information-system)
-A membership management system for the Sudan People's Liberation Movement (SPLM), designed to handle member registration, approval workflows, and data management. Built with **PHP** and a custom-built UI.
-<p align="center">
-  <a href="https://github.com/lahat-m/splm-membership-information-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=splm-membership-information-system&theme=github-light" alt="SPLM Membership Information System" />
-  </a>
-</p>
-
-### 🔹 [Muong Forum](https://github.com/lahat-m/muong-forum)
-A scalable and robust backend forum system built using **NestJS**, **Prisma**, and **PostgreSQL**. The project is designed for performance, clarity, and long-term maintainability.
-<p align="center">
-  <a href="https://github.com/lahat-m/muong-forum" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=muong-forum&theme=github-light" alt="Muong Forum" />
-  </a>
-</p>
-
-### 🔹 [ALX System Engineering & DevOps](https://github.com/lahat-m/alx-system_engineering-devops)
-A comprehensive repository of scripts and automation tools, with a strong focus on **Linux-based systems**, **DevOps workflows**, and cloud-friendly engineering practices.
-<p align="center">
-  <a href="https://github.com/lahat-m/alx-system_engineering-devops" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=alx-system_engineering-devops&theme=github-light" alt="ALX System Engineering & DevOps" />
-  </a>
-</p>
-
-### 🔹 [ALX Low-Level Programming](https://github.com/lahat-m/alx-low_level_programming)
-A deep dive into **C programming**, covering everything from memory management and data structures to pointers and system-level logic. This project showcases proficiency in low-level concepts.
-<p align="center">
-  <a href="https://github.com/lahat-m/alx-low_level_programming" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahat-m&repo=alx-low_level_programming&theme=github-light" alt="ALX Low-Level Programming" />
+  <a href="https://jualearn.co.ke" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-jualearn.co.ke-2ea44f?style=for-the-badge" alt="JuaLearn Platform" />
   </a>
 </p>

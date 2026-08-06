@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scalable applications using Java and Spring Boot.
+I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scalable applications with Java, Spring Boot.
 
 ## Primary Skills
 
@@ -28,7 +28,7 @@ I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scal
 
 ### 🔹 JuaLearn Platform — https://jualearn.co.ke
 
-An AI-powered peer-learning platform that helps upskill Kenya's informal sector with digital skills. Built with Spring Boot, Spring AI, Vaadin Flow, and Docker. Deployed on a VPS.
+An AI-powered peer-learning platform that helps upskill Kenya's informal sector with digital skills. Built with Spring Boot, Spring AI, and Docker. Deployed on a VPS.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)

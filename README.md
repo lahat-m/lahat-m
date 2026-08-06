@@ -16,8 +16,9 @@
 
 ## About Me
 
-I am a Java Developer based in Nairobi, Kenya. I specialize in building robust and scalable modular applications in Java and Spring Boot.
-## Primary Skils
+I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scalable applications using Java and Spring Boot.
+
+## Primary Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker" alt="Tech Stack" />
@@ -25,10 +26,17 @@ I am a Java Developer based in Nairobi, Kenya. I specialize in building robust a
 
 ## Featured Project
 
-### 🔹 [JuaLearn Platform](https://jualearn.co.ke)
+### 🔹 JuaLearn Platform — https://jualearn.co.ke
 
-An AI-powered peer learning platform built to upskill Kenya's informal sector with digital skills. Built with Spring Boot, Spring AI, Vaadin Flow, and Docker. Deployed on a VPS.
+An AI-powered peer-learning platform that helps upskill Kenya's informal sector with digital skills. Built with Spring Boot, Spring AI, Vaadin Flow, and Docker. Deployed on a VPS.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## Other repositories
+
+- [lahat-m/kuniel](https://github.com/lahat-m/kuniel)
+- [lahat-m/muolana](https://github.com/lahat-m/muolana)
+- [lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG](https://github.com/lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG)
+- [lahat-m/mis](https://github.com/lahat-m/mis)

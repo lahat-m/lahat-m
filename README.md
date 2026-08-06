@@ -40,4 +40,4 @@ An AI-powered peer-learning platform that helps upskill Kenya's informal sector 
 - [lahat-m/muolana](https://github.com/lahat-m/muolana)
 - [lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG](https://github.com/lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG)
 - [lahat-m/mis](https://github.com/lahat-m/mis)
-- [serv-kun](https://github.com/serv-kun)
+- [serv-kun](https://github.com/lahat-m/serv-kun)

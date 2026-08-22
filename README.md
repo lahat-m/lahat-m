@@ -16,7 +16,7 @@
 
 ## About Me
 
-I build robust, modular, and scalable applications with Java, Spring Boot.
+I build robust, modular, and scalable applications with Spring Boot
 
 ## Primary Skills
 

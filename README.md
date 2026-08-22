@@ -45,10 +45,6 @@ I am a Founder of KUNIEL, a tech company building South Sudan digital future thr
 A RAG AI Assistant built with Spring AI for understanding the Law of South Sudan as well for finding Lawyers, Law Firms for legal issues
 - [lahat-m/muolana](https://github.com/lahat-m/muolana)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
 ### 🔹 Serv-Kun
 A Linux server provisioning and deployment tool for Springboot based application
 - [lahat-m/muolana](https://github.com/lahat-m/serv-kun)

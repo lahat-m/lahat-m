@@ -1,7 +1,7 @@
 # Lahat Mariel
 **Java Developer & Software Engineer** | Spring Boot | Microservices | Cloud Solutions
 
-[GitHub](https://github.com/lahat-m) • [X @lahatmariel](https://twitter.com/lahatmariel) • [X @kuniel_ss](https://twitter.com/kuniel_ss) • [LinkedIn](#) • [Email](#)
+[GitHub](https://github.com/lahat-m) • [X @lahatmariel](https://twitter.com/lahatmariel) • [X @kuniel_ss](https://twitter.com/kuniel_ss) • [Email](lahatm.apach@gmail.com)
 
 ---
 

@@ -27,7 +27,7 @@ Centralized membership platform for Sudan People's Liberation Movement handling 
 
 ---
 
-### KUNIEL — Digital Transformation Partner
+### KUNIEL
 **Role:** Founder | **Status:** Growing  
 www.kuniel.com
 

@@ -12,6 +12,10 @@
   <a href="https://twitter.com/lahatmariel">
     <img src="https://img.shields.io/badge/-lahatmariel-1DA1F2?logo=x" alt="X">
   </a>
+
+  <a href="https://twitter.com/kuniel_ss">
+    <img src="https://img.shields.io/badge/-kuniel_ss?logo=x" alt="X">
+  </a>
 </p>
 
 ## About Me

@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://twitter.com/kuniel_ss">
-    <img src="https://img.shields.io/badge/-kuniel_ss?logo=x" alt="X">
+    <img src="https://img.shields.io/badge/-kuniel_ss-1DA1F2?logo=x" alt="X">
   </a>
 </p>
 
@@ -44,7 +44,7 @@ A centralized system digitizing Sudan People's Liberation Movement membership ma
 10. Security and Support
 
 ### 🔹 KUNIEL — www.kuniel.com
-I am a Founder of KUNIEL, a tech company building South Sudan digital future through talent development, digital skills, innovative software solutions, research & policy and self-sustaining South Sudan Tech Community.
+I am a Founder of KUNIEL, a tech company building South Sudan digital future through talent development, digital skills, innovative software solutions, research & policy and self-sustaining South [...]
 ### 🔹 Digital Muolana
 A RAG AI Assistant built with Spring AI for understanding the Law of South Sudan as well for finding Lawyers, Law Firms for legal issues
 - [lahat-m/muolana](https://github.com/lahat-m/muolana)

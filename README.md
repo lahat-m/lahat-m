@@ -7,7 +7,7 @@
 
 ## About
 
-Experienced Java developer specializing in building scalable, enterprise-grade applications with Spring Boot. Passionate about digital transformation in underserved markets and mentoring emerging talent.
+Java developer & Software Engineer specializing in building scalable, enterprise-grade applications with Spring Boot. Passionate about digital transformation in underserved markets and mentoring talent.
 
 ---
 

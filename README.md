@@ -51,6 +51,7 @@ A RAG AI Assistant built with Spring AI for understanding the Law of South Sudan
 
 ### 🔹 Serv-Kun
 A Linux server provisioning and deployment tool for Springboot based application
+- [lahat-m/muolana](https://github.com/lahat-m/serv-kun)
 
 ### 🔹 CamBuddy
 ChatBot helping students navigation adminstrative and academics processes with ease at the University of Nairobi

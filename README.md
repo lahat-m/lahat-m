@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Lahat Mariel</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Java Developer & Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/lahat-m">
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scalable applications with Java, Spring Boot.
+I build robust, modular, and scalable applications with Java, Spring Boot.
 
 ## Primary Skills
 
@@ -26,18 +26,33 @@ I am a Java developer based in Nairobi, Kenya. I build robust, modular, and scal
 
 ## Featured Project
 
-### 🔹 JuaLearn Platform — https://jualearn.co.ke
+### 🔹 SPLM Membership Information System (SMIS) — www.membership.splm.co.ke
+A centralized system digitizing Sudan People's Liberation Movement membership management and all operations of the party from:
+1. Online registration from anywhere
+2. Centralized approval and verification
+3. Membership fee payment
+4. Record offline payment
+5. Members registration by Administrators for members who cannot read or write or have no access to gadget
+6. Member portals
+7. Administrative structure from State to Boma
+8. Dashboards and reporting
+9. Centralized communication
+10. Security and Support
 
-An AI-powered peer-learning platform that helps upskill Kenya's informal sector with digital skills. Built with Spring Boot, Spring AI, and Docker. Deployed on a VPS.
-
+### 🔹 KUNIEL — www.kuniel.com
+I am a Founder of KUNIEL, a tech company building South Sudan digital future through talent development, digital skills, innovative software solutions, research & policy and self-sustaining South Sudan Tech Community.
+### 🔹 Digital Muolana
+A RAG AI Assistant built with Spring AI for understanding the Law of South Sudan as well for finding Lawyers, Law Firms for legal issues
+- [lahat-m/muolana](https://github.com/lahat-m/muolana)
+### 🔹 KUNIEL) — www.kuniel.com
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Other repositories
+### 🔹 Serv-Kun
+A Linux server provisioning and deployment tool for Springboot based application
 
-- [lahat-m/kuniel](https://github.com/lahat-m/kuniel)
-- [lahat-m/muolana](https://github.com/lahat-m/muolana)
+### 🔹 CamBuddy
+ChatBot helping students navigation adminstrative and academics processes with ease at the University of Nairobi
 - [lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG](https://github.com/lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG)
-- [lahat-m/mis](https://github.com/lahat-m/mis)
-- [serv-kun](https://github.com/lahat-m/serv-kun)
+

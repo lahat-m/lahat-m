@@ -1,59 +1,70 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lahat-m&theme=github-light&hide_border=true&bg_color=f8f9fa" alt="Activity Graph" />
-</p>
+# Lahat Mariel
+**Java Developer & Software Engineer** | Spring Boot | Microservices | Cloud Solutions
 
-<h1 align="center">Lahat Mariel</h1>
-<h3 align="center">Java Developer & Software Engineer</h3>
+[GitHub](https://github.com/lahat-m) • [X @lahatmariel](https://twitter.com/lahatmariel) • [X @kuniel_ss](https://twitter.com/kuniel_ss) • [LinkedIn](#) • [Email](#)
 
-<p align="center">
-  <a href="https://github.com/lahat-m">
-    <img src="https://img.shields.io/badge/GitHub-lahat--m-blue?logo=github" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/lahatmariel">
-    <img src="https://img.shields.io/badge/-lahatmariel-1DA1F2?logo=x" alt="X">
-  </a>
+---
 
-  <a href="https://twitter.com/kuniel_ss">
-    <img src="https://img.shields.io/badge/-kuniel_ss-1DA1F2?logo=x" alt="X">
-  </a>
-</p>
+## About
 
-## About Me
+Experienced Java developer specializing in building scalable, enterprise-grade applications with Spring Boot. Passionate about digital transformation in underserved markets and mentoring emerging talent.
 
-I build robust, modular, and scalable applications with Spring Boot
+---
 
-## Primary Skills
+## Featured Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker" alt="Tech Stack" />
-</p>
+### SPLM Membership Information System (SMIS)
+**Role:** Architect & Lead Developer | **Status:** Live  
+www.membership.splm.co.ke
 
-## Featured Project
+Centralized membership platform for Sudan People's Liberation Movement handling 100k+ members:
+- Online registration & approval workflows
+- Payment processing & offline reconciliation
+- Multi-tier administrative structure
+- Real-time dashboards & reporting
 
-### 🔹 SPLM Membership Information System (SMIS) — www.membership.splm.co.ke
-A centralized system digitizing Sudan People's Liberation Movement membership management and all operations of the party from:
-1. Online registration from anywhere
-2. Centralized approval and verification
-3. Membership fee payment
-4. Record offline payment
-5. Members registration by Administrators for members who cannot read or write or have no access to gadget
-6. Member portals
-7. Administrative structure from State to Boma
-8. Dashboards and reporting
-9. Centralized communication
-10. Security and Support
+**Tech:** Spring Boot, PostgreSQL, Docker, AWS
 
-### 🔹 KUNIEL — www.kuniel.com
-I am a Founder of KUNIEL, a tech company building South Sudan digital future through talent development, digital skills, innovative software solutions, research & policy and self-sustaining South [...]
-### 🔹 Digital Muolana
-A RAG AI Assistant built with Spring AI for understanding the Law of South Sudan as well for finding Lawyers, Law Firms for legal issues
-- [lahat-m/muolana](https://github.com/lahat-m/muolana)
+---
 
-### 🔹 Serv-Kun
-A Linux server provisioning and deployment tool for Springboot based application
-- [lahat-m/muolana](https://github.com/lahat-m/serv-kun)
+### KUNIEL — Digital Transformation Partner
+**Role:** Founder | **Status:** Growing  
+www.kuniel.com
 
-### 🔹 CamBuddy
-ChatBot helping students navigation adminstrative and academics processes with ease at the University of Nairobi
-- [lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG](https://github.com/lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG)
+Building South Sudan's digital future through:
+- Talent development & bootcamps
+- Custom software solutions
+- Digital skills training
 
+---
+
+### Jualearn — AI-Powered Peer Learning Platform
+**Role:** Founder & Lead Developer | **Status:** Active Development  
+[GitHub](https://github.com/lahat-m/jualearn-platform)
+
+AI-powered peer learning platform for upskilling informal sector workers in Kenya with digital skills. Connecting learners with mentors and personalized learning paths.
+
+**Tech:** Python, Vue 3, FastAPI/Django, PostgreSQL
+
+---
+
+## Open Source Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Muolana](https://github.com/lahat-m/muolana)** | RAG AI Assistant for South Sudan legal research | Spring AI, LLM |
+| **[CamBuddy](https://github.com/lahat-m/CampBuddy-University-Guide-ChatBot-with-RAG)** | University chatbot for student support | Python, RAG, NLP |
+| **[Serv-Kun](https://github.com/lahat-m/serv-kun)** | Linux provisioning tool for Spring Boot deployments | Spring Boot, Linux |
+
+---
+
+## Core Skills
+
+Java • Spring Boot • Python • Vue 3 • PostgreSQL • Docker • Microservices • REST APIs • RAG/AI • AWS
+
+---
+
+## Get In Touch
+
+📧 [Email](mailto:)  
+💬 [@lahatmariel](https://twitter.com/lahatmariel) | [@kuniel_ss](https://twitter.com/kuniel_ss)
